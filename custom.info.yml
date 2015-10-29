@@ -1,0 +1,9 @@
+name: Custom
+description: A custom module for testing in drupal 8
+package: custom
+core: 8.x
+version: 8.x-0.1
+
+type: module
+hidden: false
+

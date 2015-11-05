@@ -5,4 +5,10 @@ custom.content:
         _title: 'Custom Module'
     requirements:
         _permission: 'access content'
-      
+
+
+custom.snehi:
+    path: '/custom'
+    defaults:
+        _controller : '\Drupal\custom\Controller\CustomController::snehi'
+    
